@@ -1,0 +1,108 @@
+html {
+    box-sizing: border-box;
+}
+
+*,
+::after,
+::before {
+    box-sizing: inherit;
+}
+
+
+.body {
+    margin: 0 5%;
+}
+
+
+
+.list {
+    border: 2px solid brown;
+    border-radius: 10px;
+    background-color: green;
+}
+
+.Gatunki {
+    color: wheat;
+}
+
+.p1 {
+    color: wheat;
+}
+
+.p2 {
+    color: wheat;
+}
+
+.p3 {
+    color: wheat;
+}
+
+.p4 {
+    color: wheat;
+}
+
+
+.article {
+    text-align: center;
+}
+
+
+.startsite {
+    font-size: large;
+    text-shadow: 1px 2px 5px grey;
+}
+
+.Rock {
+    color: brown;
+}
+
+.HardRock {
+    color: brown;
+}
+
+.Metal {
+    color: brown;
+}
+
+.DMetal {
+    color: brown;
+}
+
+
+
+.intro {
+    font-family: 'Lato', sans-serif;
+    font-style: italic;
+    font-size: 20px;
+    border: 2px solid brown;
+    border-radius: 10px;
+    background-color: wheat;
+    padding: 20px 50px;
+    margin-bottom: 20px;
+
+}
+
+
+.myFreak {
+    color: brown;
+    text-align: center;
+}
+
+
+.article {
+    font-family: 'Lato', sans-serif;
+    font-style: italic;
+    font-size: 20px;
+    border: 2px solid brown;
+    border-radius: 10px;
+    background-color: wheat;
+    padding: 20px 50px;
+}
+
+.linia {
+    color: brown;
+}
+
+.footer {
+    text-align: center;
+}
