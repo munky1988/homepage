@@ -1,0 +1,64 @@
+html {
+    box-sizing: border-box;
+}
+
+*,
+::after,
+::before {
+    box-sizing: inherit;
+}
+
+.startsite {
+    font-family: 'Montserrat', sans-serif;
+    font-size: large;
+    text-shadow: 1px 2px 5px grey;
+}
+
+.list {
+    padding-top: auto 10px;
+    border: 2px solid brown;
+    border-radius: 10px;
+    background-color: green;
+}
+
+.Gatunki {
+    color: wheat;
+}
+
+.p1 {
+    color: wheat;
+}
+
+.p2 {
+    color: wheat;
+}
+
+.p3 {
+    color: wheat;
+}
+
+.p4 {
+    color: wheat;
+}
+
+
+.article {
+    text-align: center;
+}
+
+
+.Rock {
+    color: brown;
+}
+
+.HardRock {
+    color: brown;
+}
+
+.Metal {
+    color: brown;
+}
+
+.DMetal {
+    color: brown;
+}
